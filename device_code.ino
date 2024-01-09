@@ -19,7 +19,7 @@ Adafruit_SHT31 sht31 = Adafruit_SHT31();
 
 void setup()
 {
-    Wire.begin(14, 13);
+    Wire.begin(8, 9);
     Serial.begin(115200);
     WiFi.begin(ssid, password);
 
