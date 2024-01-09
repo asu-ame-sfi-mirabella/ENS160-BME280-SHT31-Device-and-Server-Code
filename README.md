@@ -44,7 +44,3 @@ Example Data Format:
 ## Conclusion
 
 This project demonstrates the integration of ESP32 with various environmental sensors and a server for data collection and display. It can be adapted for various applications like home environmental monitoring, greenhouse management, or educational purposes.
-
----
-
-Feel free to modify this README to include any additional details or instructions specific to your project.
