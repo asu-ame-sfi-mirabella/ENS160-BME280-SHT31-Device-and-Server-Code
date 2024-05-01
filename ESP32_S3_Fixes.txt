@@ -1,0 +1,13 @@
+Select Board TAMC Termod S3
+
+In tools:
+tools>USB CDC on BOOT> Enabled!
+serial baud rate to 115200
+
+
+error- A fatal error occurred: Unable to verify flash chip connection
+connect the board via the USB - cable
+press and hold the BOOT button
+While still pressing the BOOT button, press RST
+3.release the RST
+4.release the BOOT button
